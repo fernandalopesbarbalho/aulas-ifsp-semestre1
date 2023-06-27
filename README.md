@@ -24,5 +24,15 @@ Recebe dois números e verifica se são diferentes.
 Recebe um número e verifica se é positivo ou negativo.
 ### Ímpar ou Par
 Recebe um número e verifica se é ímpar ou par.
+### Aprovação
+Recebe três notas de um aluno, calcula a média e verifica se foi reprovado, aprovado ou se está de recuperação.
+
+## Aula 4 - 18/04/23 (WHILE)
+### Soma e Média
+Recebe um conjunto de números e imprime sua soma e sua média. O conjunto de números para de ser armazenado quando o número informado é igual a 0.
+### Pares e Ímpares
+Recebe um conjunto de números e imprime a quantidade de pares e ímpares. O conjunto de números para de ser armazenado quando o número informado é igual a 0.
+### Maior Número
+Recebe 15 números inteiros e imprime o valor do maior número digitado.
 
 ## Ainda em atualização
