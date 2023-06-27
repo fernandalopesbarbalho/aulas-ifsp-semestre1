@@ -1,4 +1,4 @@
-# Códigos em C
+# Aulas de Programação C
 Códigos em linguagem C produzidos em aula no primeiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referente à matéria de Algoritmos e Programação.
 
 ## Aula 1 - 21/03/23
