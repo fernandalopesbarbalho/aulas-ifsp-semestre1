@@ -35,4 +35,18 @@ Recebe um conjunto de números e imprime a quantidade de pares e ímpares. O con
 ### Maior Número
 Recebe 15 números inteiros e imprime o valor do maior número digitado.
 
+## Aula 5 - 09/05/23 (FOR)
+### Ímpares até Mil
+Lista os números ímpares até mil.
+### Tabuada
+Recebe um número e imprime sua tabuada.
+
+## Aula 6 - 16/06/23 (BIBLIOTECAS e MÓDULOS)
+## Bibliotecas
+Testa funções como pow(), que calcula exponencição, sqrt(), que calcula a raiz de um número, e srand(time(NULL), que retira informações da hora do sistema para a criação de números randomicos.
+## Parâmetro
+Subprograma que verifica se um número é ímpar ou par.
+## Função
+Função que calcula o quadrado de um número.
+
 ## Ainda em atualização
