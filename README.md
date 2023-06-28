@@ -41,7 +41,7 @@ Lista os números ímpares até mil.
 ### Tabuada
 Recebe um número e imprime sua tabuada.
 
-## Aula 6 - 16/06/23 (BIBLIOTECAS e MÓDULOS)
+## Aula 6 - 16/05/23 (BIBLIOTECAS e MÓDULOS)
 ## Bibliotecas
 Testa funções como pow(), que calcula exponencição, sqrt(), que calcula a raiz de um número, e srand(time(NULL), que retira informações da hora do sistema para a criação de números randomicos.
 ## Parâmetro
