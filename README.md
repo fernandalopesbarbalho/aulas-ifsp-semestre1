@@ -51,6 +51,6 @@ Função que calcula o quadrado de um número.
 
 ## Aula 7 - 06/06/23 (VETOR)
 ### Vetor
-Recebe uma sequência de 10 números, armazena em um vetor e imprime cada um deles.
+Recebe uma sequência de 10 números, armazena em um vetor e imprime a posição do número e seu valor.
 
 ## Ainda em atualização
