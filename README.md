@@ -13,7 +13,7 @@ Imprime dados sobre o vôo de um avião utilizando operadores matemáticos.
 ### Dólar
 Imprime informações sobre o valor do dólar utilizando o tipo de variável double.
 ### Dólar 2
-Recebe as informações sobre o preço do dólar e sua quantidade, calculando e imprimindo seu total.
+Recebe as informações sobre o preço do dólar e sua quantidade, imprimindo a quantidade de dólares e seu valor correspondente em reais.
 
 ## Aula 3 - 04/04/23 (IF)
 ### Maior de Idade
