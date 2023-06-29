@@ -43,7 +43,7 @@ Recebe um número e imprime sua tabuada.
 
 ## Aula 6 - 16/05/23 (BIBLIOTECAS e MÓDULOS)
 ## Bibliotecas
-Testa funções como pow(), que calcula exponencição, sqrt(), que calcula a raiz de um número, e srand(time(NULL), que retira informações da hora do sistema para a criação de números randomicos.
+Testa funções como pow(), que calcula exponencição, sqrt(), que calcula a raiz de um número, e srand(time(NULL)), que retira informações da hora do sistema para a criação de números randomicos.
 ## Parâmetro
 Subprograma que verifica se um número é ímpar ou par.
 ## Função
@@ -65,4 +65,4 @@ Programa que recebe strings e imprime repetidamente enquanto não é digitado o 
 ### Poda Strings
 Programa que recebe um número e imprime as strings recebidas depois no tamanho do número informado até que seja digitado uma string vazia (Enter).
 ### sget
-Exemplo de utilização do sget para strings disponibilizado pelo professor. 
+Exemplo de utilização do sget para strings disponibilizado pelo professor.
