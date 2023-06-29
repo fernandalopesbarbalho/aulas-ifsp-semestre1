@@ -64,3 +64,5 @@ Função que duplica o valor de todos os elementos de um vetor.
 Programa que recebe strings e imprime repetidamente enquanto não é digitado o caractere #.
 ### Poda Strings
 Programa que recebe um número e imprime as strings recebidas depois no tamanho do número informado até que seja digitado uma string vazia (Enter).
+### sget
+Exemplo de utilização do sget para strings disponibilizado pelo professor. 
