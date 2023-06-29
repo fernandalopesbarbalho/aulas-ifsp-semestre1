@@ -61,7 +61,7 @@ Recebe e imprime o nome de uma pessoa usando fgets e stdin.
 ### Função e Vetor
 Função que duplica o valor de todos os elementos de um vetor.
 ### Papagaio
-Programa que recebe strings e imprime repetidamente enquanto não é digitado o caractere #.
+Programa que recebe strings e imprime repetidamente enquanto não é digitado o caractere '#'.
 ### Poda Strings
 Programa que recebe um número e imprime as strings recebidas depois no tamanho do número informado até que seja digitado uma string vazia (Enter).
 ### sget
