@@ -52,5 +52,15 @@ Função que calcula o quadrado de um número.
 ## Aula 7 - 06/06/23 (VETOR)
 ### Vetor
 Recebe uma sequência de 10 números, armazena em um vetor e imprime a posição do número e seu valor.
+### Define
+Recebe uma sequência de 5 números e imprime a quantidade deles que são pares. Utiliza a constante #define para o tamanho do vetor.
+### String
+Recebe e imprime o nome de uma pessoa usando fgets e stdin.
 
-## Ainda em atualização
+### Aula 8 - 13/06/23
+### Função e Vetor
+Função que duplica o valor de todos os elementos de um vetor.
+### Papagaio
+Programa que recebe strings e imprime repetidamente enquanto não é digitado o caractere #.
+### Poda Strings
+Programa que recebe um número e imprime as strings recebidas depois no tamanho do número informado até que seja digitado uma string vazia (Enter).
