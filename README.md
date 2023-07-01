@@ -38,7 +38,7 @@ Recebe 15 números inteiros e imprime o valor do maior número digitado.
 ## Aula 5 - 09/05/23 (FOR)
 ### Ímpares até Mil
 Lista os números ímpares até mil.
-### Tabuada
+### Tabuada 2
 Recebe um número e imprime sua tabuada.
 
 ## Aula 6 - 16/05/23 (BIBLIOTECAS e MÓDULOS)
