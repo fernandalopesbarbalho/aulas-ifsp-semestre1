@@ -54,6 +54,8 @@ Função que calcula o quadrado de um número.
 Recebe uma sequência de 10 números, armazena em um vetor e imprime a posição do número e seu valor.
 ### Define
 Recebe uma sequência de 5 números e imprime a quantidade deles que são pares. Utiliza a constante #define para o tamanho do vetor.
+### Define 2
+Recebe uma sequência de 10 números, imprime sua posição no vetor e seu valor, depois inprime novamente, porém substituindo os valores menores que zero por zero.
 ### String
 Recebe e imprime o nome de uma pessoa usando fgets e stdin.
 
