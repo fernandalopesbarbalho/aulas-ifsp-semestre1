@@ -59,7 +59,7 @@ Recebe uma sequência de 10 números, imprime sua posição no vetor e seu valor
 ### String
 Recebe e imprime o nome de uma pessoa usando fgets e stdin.
 
-### Aula 8 - 13/06/23
+## Aula 8 - 13/06/23
 ### Função e Vetor
 Função que duplica o valor de todos os elementos de um vetor.
 ### Papagaio
