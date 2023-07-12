@@ -70,3 +70,11 @@ Programa que recebe strings e imprime repetidamente enquanto não é digitado o 
 Programa que recebe um número e imprime as strings recebidas depois no tamanho do número informado até que seja digitado uma string vazia (Enter).
 ### sget
 Exemplo de utilização do sget para strings disponibilizado pelo professor.
+
+## Aula 9 - 04/07/23 (MATRIZES E SWITCH CASE)
+### Tabuleiro Preto e Branco
+Cria e imprime um tabuleiro de xadrez sem inicializar a matriz de inteiros que representa com um '0' para as casas brancas e '1' para as casas pretas.
+### Tabuleiro de Xadrez
+Cria e imprime um tabuleiro de xadrez inicializando a matriz de caracteres, sendo que: casas vazias contém espaços, casas ocupadas contém a inicial da peça (R=rei, D=dama, T=torre, B=bispo, C=cavalo e P=peão) e letras minúsculas indicam peças brancas e maiúsculas peças pretas.
+### Função Tabuleiro Ganhador
+Função que recebe como parâmetro uma matriz do tabuleiro como, por exemplo, a do exercício Tabuleiro de Xadrez e calcula a diferença material entre as brancas e as pretas, considerando as os valores das peças por: dama = 9, torre = 5, bispo = 3, cavalo = 2,5, peão = 1. Por fim, retorna seu resultado. Se a diferença material for negativa, significa que as peças brancas (letras minúsculas) têm uma vantagem material sobre as peças pretas. Se for positiva, indica que as peças pretas (letras maiúsculas) têm uma vantagem material sobre as brancas. Se for zero, indica que as pontuações são iguais para ambos os lados.
