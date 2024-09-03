@@ -1,6 +1,8 @@
 # Aulas de Programação em C
 Códigos em linguagem C produzidos em aula durante primeiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referente à matéria de Algoritmos e Programação.
 
+Nota final: 9,0.
+
 As demais aulas do semestre e seus exercícios para entrega estão melhor descritos no repositório [Exercícios de Programação em C](https://github.com/fernandalopesbarbalho/exercicios-ifsp-semestre1).
 
 ## Aula 1 - 21/03/23
